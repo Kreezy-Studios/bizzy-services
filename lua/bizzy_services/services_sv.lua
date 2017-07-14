@@ -2,7 +2,7 @@ local pairs 			= pairs
 local player_GetAll 		= player.GetAll
 local player_GetCount 		= player.GetCount
 local CurTime 			= CurTime
-
+-- just realized i could've just localized table but fuk it
 local table_insert 		= table.insert
 local table_remove		= table.remove
 local table_HasValue		= table.HasValue
